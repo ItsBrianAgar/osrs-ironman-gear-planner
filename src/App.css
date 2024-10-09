@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #eee;
+  display: grid;
+  place-items: center;
+}
+
+.content-wrapper {
+  background-color: white;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1440px;
+  min-height: calc(100vh - 4rem);
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.02), 0 2rem 4rem rgba(0, 0, 0, 0.02);
+  border-radius: 1rem;
+}
