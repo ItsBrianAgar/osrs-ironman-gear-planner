@@ -1,0 +1,46 @@
+{
+  "subject": "Torvas#0##",
+  "data": [
+    {
+      "property": "_INST",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Prayer_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "God_Wars_Dungeon#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipment#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipment_sets#14##"
+        }
+      ]
+    },
+    {
+      "property": "_MDAT",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2024/10/6/21/42/13/0"
+        }
+      ]
+    },
+    {
+      "property": "_SKEY",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Torvas"
+        }
+      ]
+    }
+  ],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

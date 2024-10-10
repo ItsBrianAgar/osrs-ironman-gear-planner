@@ -1,7 +1,13 @@
+import React from "react";
+// Assets
 import "./App.css";
-// Hooks
+// Utils
 import "./hooks/useSiteMeta";
+// Hooks
 import useSiteMeta from "./hooks/useSiteMeta";
+// Components
+import PageHeader from "./components/PageHeader/PageHeader";
+import ContentCanvas from "./components/ContentCanvas/ContentCanvas";
 
 function App() {
   useSiteMeta();
@@ -9,10 +15,8 @@ function App() {
   return (
     <div className="App">
       <main className="content-wrapper">
-        <header className="page-header">
-          <h1 className="page-title">Gear Planner</h1>
-          <button className="button--primary">Add an itemmmm</button>
-        </header>
+        <PageHeader />
+        <ContentCanvas />
       </main>
     </div>
   );

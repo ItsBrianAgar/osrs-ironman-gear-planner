@@ -1,0 +1,6 @@
+{
+  "subject": "Rwisted_bow#0##",
+  "data": [],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

@@ -1,0 +1,562 @@
+{
+  "subject": "Dragon_claws#0##",
+  "data": [
+    {
+      "property": "All_Combat_style",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Claw"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-4"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "7"
+        }
+      ]
+    },
+    {
+      "property": "All_Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "2h"
+        }
+      ]
+    },
+    {
+      "property": "All_Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Dragon_claws.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "All_Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "13652"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Dragon claws"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "57"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "26"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "41"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "13"
+        }
+      ]
+    },
+    {
+      "property": "All_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "56"
+        }
+      ]
+    },
+    {
+      "property": "All_Weapon_attack_range",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "All_Weapon_attack_speed",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "4"
+        }
+      ]
+    },
+    {
+      "property": "All_Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0.907"
+        }
+      ]
+    },
+    {
+      "property": "Buy_limit",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "8"
+        }
+      ]
+    },
+    {
+      "property": "Combat_style",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Claw"
+        }
+      ]
+    },
+    {
+      "property": "Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-4"
+        }
+      ]
+    },
+    {
+      "property": "Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "7"
+        }
+      ]
+    },
+    {
+      "property": "Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "2h"
+        }
+      ]
+    },
+    {
+      "property": "Examine",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "A set of fighting claws."
+        }
+      ]
+    },
+    {
+      "property": "High_Alchemy_value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "123000"
+        }
+      ]
+    },
+    {
+      "property": "Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Dragon_claws.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "13652"
+        }
+      ]
+    },
+    {
+      "property": "Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Dragon claws"
+        }
+      ]
+    },
+    {
+      "property": "Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Release_date",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2017/1/5"
+        }
+      ]
+    },
+    {
+      "property": "Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "57"
+        }
+      ]
+    },
+    {
+      "property": "Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "26"
+        }
+      ]
+    },
+    {
+      "property": "Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "41"
+        }
+      ]
+    },
+    {
+      "property": "Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "13"
+        }
+      ]
+    },
+    {
+      "property": "Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "56"
+        }
+      ]
+    },
+    {
+      "property": "Uses_infobox",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Item"
+        }
+      ]
+    },
+    {
+      "property": "Value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "205000"
+        }
+      ]
+    },
+    {
+      "property": "Weapon_attack_range",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "Weapon_attack_speed",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "4"
+        }
+      ]
+    },
+    {
+      "property": "Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0.907"
+        }
+      ]
+    },
+    {
+      "property": "_INST",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Weapons#14##"
+        },
+        {
+          "type": 9,
+          "item": "Two-handed_slot_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Weapons_with_Special_attacks#14##"
+        },
+        {
+          "type": 9,
+          "item": "Unarchived_forum_references#14##"
+        },
+        {
+          "type": 9,
+          "item": "Pages_with_AKA#14##"
+        },
+        {
+          "type": 9,
+          "item": "Chambers_of_Xeric#14##"
+        },
+        {
+          "type": 9,
+          "item": "Orikalkum#14##"
+        },
+        {
+          "type": 9,
+          "item": "Grand_Exchange_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Tradeable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_dropped_by_monster#14##"
+        },
+        {
+          "type": 9,
+          "item": "Slash_weapons#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Members'_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Melee_weapons#14##"
+        },
+        {
+          "type": 9,
+          "item": "Collection_log_items#14##"
+        }
+      ]
+    },
+    {
+      "property": "_MDAT",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2024/7/18/1/14/2/0"
+        }
+      ]
+    },
+    {
+      "property": "_SKEY",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Dragon claws"
+        }
+      ]
+    }
+  ],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

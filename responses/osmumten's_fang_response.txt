@@ -1,0 +1,558 @@
+{
+  "subject": "Osmumten's_fang#0##",
+  "data": [
+    {
+      "property": "All_Combat_style",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Stab Sword"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "weapon"
+        }
+      ]
+    },
+    {
+      "property": "All_Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Osmumten's_fang.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "All_Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "26219"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Osmumten's fang"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "75"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "105"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "103"
+        }
+      ]
+    },
+    {
+      "property": "All_Weapon_attack_range",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "All_Weapon_attack_speed",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "5"
+        }
+      ]
+    },
+    {
+      "property": "All_Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1.814"
+        }
+      ]
+    },
+    {
+      "property": "Buy_limit",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "8"
+        }
+      ]
+    },
+    {
+      "property": "Combat_style",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Stab Sword"
+        }
+      ]
+    },
+    {
+      "property": "Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "weapon"
+        }
+      ]
+    },
+    {
+      "property": "Examine",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "A deadly sword created long ago."
+        }
+      ]
+    },
+    {
+      "property": "High_Alchemy_value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "600000"
+        }
+      ]
+    },
+    {
+      "property": "Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Osmumten's_fang.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "26219"
+        }
+      ]
+    },
+    {
+      "property": "Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Osmumten's fang"
+        }
+      ]
+    },
+    {
+      "property": "Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Release_date",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2022/8/24"
+        }
+      ]
+    },
+    {
+      "property": "Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "75"
+        }
+      ]
+    },
+    {
+      "property": "Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "105"
+        }
+      ]
+    },
+    {
+      "property": "Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "103"
+        }
+      ]
+    },
+    {
+      "property": "Uses_infobox",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Item"
+        }
+      ]
+    },
+    {
+      "property": "Value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1000000"
+        }
+      ]
+    },
+    {
+      "property": "Weapon_attack_range",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "Weapon_attack_speed",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "5"
+        }
+      ]
+    },
+    {
+      "property": "Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1.814"
+        }
+      ]
+    },
+    {
+      "property": "_INST",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Weapon_slot_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Weapons#14##"
+        },
+        {
+          "type": 9,
+          "item": "Weapons_with_Special_attacks#14##"
+        },
+        {
+          "type": 9,
+          "item": "Pages_with_AKA#14##"
+        },
+        {
+          "type": 9,
+          "item": "Stab_weapons#14##"
+        },
+        {
+          "type": 9,
+          "item": "Grand_Exchange_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Tradeable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_dropped_by_monster#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Members'_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Melee_weapons#14##"
+        },
+        {
+          "type": 9,
+          "item": "Tombs_of_Amascut#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_subject_to_Grand_Exchange_item_sink#14##"
+        },
+        {
+          "type": 9,
+          "item": "Collection_log_items#14##"
+        }
+      ]
+    },
+    {
+      "property": "_MDAT",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2024/8/28/10/7/18/0"
+        }
+      ]
+    },
+    {
+      "property": "_SKEY",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Osmumten's fang"
+        }
+      ]
+    }
+  ],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

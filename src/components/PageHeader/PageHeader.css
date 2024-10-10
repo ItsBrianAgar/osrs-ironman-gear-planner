@@ -1,0 +1,28 @@
+.page-header {
+  padding: 4rem;
+  border-radius: 1.2rem;
+  background-image: linear-gradient(to top, #ece3d3, #ffe9ca);
+  margin-bottom: 4rem;
+}
+
+.header-img {
+  height: 4rem;
+}
+
+.page-title {
+  font-size: 4rem;
+  font-weight: 700;
+  margin: 1rem 0;
+  color: #220030;
+}
+
+.page-title--supertext {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #666;
+}
+
+.page-description {
+  font-size: 1.2rem;
+  color: #666;
+}

@@ -1,0 +1,605 @@
+{
+  "subject": "Dragon_pickaxe#0##",
+  "data": [
+    {
+      "property": "All_Combat_style",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Pickaxe"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "32"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "weapon"
+        }
+      ]
+    },
+    {
+      "property": "All_Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Dragon_pickaxe.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "All_Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "11920"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Dragon pickaxe"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-2"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "38"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "42"
+        }
+      ]
+    },
+    {
+      "property": "All_Weapon_attack_range",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "All_Weapon_attack_speed",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "5"
+        }
+      ]
+    },
+    {
+      "property": "All_Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "2.4"
+        }
+      ]
+    },
+    {
+      "property": "Buy_limit",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "40"
+        }
+      ]
+    },
+    {
+      "property": "Combat_style",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Pickaxe"
+        }
+      ]
+    },
+    {
+      "property": "Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "32"
+        }
+      ]
+    },
+    {
+      "property": "Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "weapon"
+        }
+      ]
+    },
+    {
+      "property": "Examine",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "If rocks could feel fear, they'd fear this."
+        }
+      ]
+    },
+    {
+      "property": "High_Alchemy_value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "58770"
+        }
+      ]
+    },
+    {
+      "property": "Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Dragon_pickaxe.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "11920"
+        }
+      ]
+    },
+    {
+      "property": "Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Dragon pickaxe"
+        }
+      ]
+    },
+    {
+      "property": "Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Production_JSON",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "{\"ticks\":\"\",\"materials\":[{\"name\":\"Dragon pickaxe (broken)\",\"quantity\":\"1\"},{\"name\":\"Coins\",\"quantity\":\"2500000\"}],\"facilities\":\"Nurmof\",\"skills\":[],\"members\":\"Yes\",\"output\":{\"cost\":916569,\"quantity\":\"1\",\"name\":\"Dragon pickaxe\",\"image\":\"[[File:Dragon pickaxe.png|link=Dragon pickaxe]]\"}}"
+        }
+      ]
+    },
+    {
+      "property": "Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Release_date",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2014/3/13"
+        }
+      ]
+    },
+    {
+      "property": "Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-2"
+        }
+      ]
+    },
+    {
+      "property": "Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "38"
+        }
+      ]
+    },
+    {
+      "property": "Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "42"
+        }
+      ]
+    },
+    {
+      "property": "Uses_facility",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Nurmof#0##"
+        }
+      ]
+    },
+    {
+      "property": "Uses_infobox",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Item"
+        }
+      ]
+    },
+    {
+      "property": "Uses_material",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Coins#0##"
+        },
+        {
+          "type": 9,
+          "item": "Dragon_pickaxe_(broken)#0##"
+        }
+      ]
+    },
+    {
+      "property": "Value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "97950"
+        }
+      ]
+    },
+    {
+      "property": "Weapon_attack_range",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "Weapon_attack_speed",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "5"
+        }
+      ]
+    },
+    {
+      "property": "Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "2.4"
+        }
+      ]
+    },
+    {
+      "property": "_INST",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Weapon_slot_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Mining#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_needed_for_an_emote_clue#14##"
+        },
+        {
+          "type": 9,
+          "item": "Pickaxes#14##"
+        },
+        {
+          "type": 9,
+          "item": "Tools#14##"
+        },
+        {
+          "type": 9,
+          "item": "Weapons_with_Special_attacks#14##"
+        },
+        {
+          "type": 9,
+          "item": "Pages_with_AKA#14##"
+        },
+        {
+          "type": 9,
+          "item": "Orikalkum#14##"
+        },
+        {
+          "type": 9,
+          "item": "Grand_Exchange_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Tradeable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_dropped_by_monster#14##"
+        },
+        {
+          "type": 9,
+          "item": "Recipes_missing_ticks#14##"
+        },
+        {
+          "type": 9,
+          "item": "Recipes_that_use_a_facility#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Members'_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_subject_to_Grand_Exchange_item_sink#14##"
+        },
+        {
+          "type": 9,
+          "item": "Forced_speech#14##"
+        },
+        {
+          "type": 9,
+          "item": "Collection_log_items#14##"
+        }
+      ]
+    },
+    {
+      "property": "_MDAT",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2024/8/20/0/56/23/0"
+        }
+      ]
+    },
+    {
+      "property": "_SKEY",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Dragon pickaxe"
+        }
+      ]
+    }
+  ],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

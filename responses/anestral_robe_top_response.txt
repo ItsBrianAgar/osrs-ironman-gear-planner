@@ -1,0 +1,6 @@
+{
+  "subject": "Anestral_robe_top#0##",
+  "data": [],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

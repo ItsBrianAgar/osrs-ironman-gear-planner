@@ -1,0 +1,639 @@
+{
+  "subject": "Bronze_longsword#0##",
+  "data": [
+    {
+      "property": "All_Combat_style",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Slash Sword"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-2"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "2"
+        }
+      ]
+    },
+    {
+      "property": "All_Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "weapon"
+        }
+      ]
+    },
+    {
+      "property": "All_Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Bronze_longsword.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "All_Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "f"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1291"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Bronze longsword"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "5"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "3"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "4"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "7"
+        }
+      ]
+    },
+    {
+      "property": "All_Weapon_attack_range",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "All_Weapon_attack_speed",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "5"
+        }
+      ]
+    },
+    {
+      "property": "All_Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1.814"
+        }
+      ]
+    },
+    {
+      "property": "Buy_limit",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "125"
+        }
+      ]
+    },
+    {
+      "property": "Combat_style",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Slash Sword"
+        }
+      ]
+    },
+    {
+      "property": "Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-2"
+        }
+      ]
+    },
+    {
+      "property": "Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "2"
+        }
+      ]
+    },
+    {
+      "property": "Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "weapon"
+        }
+      ]
+    },
+    {
+      "property": "Examine",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "A razor sharp longsword."
+        }
+      ]
+    },
+    {
+      "property": "High_Alchemy_value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "24"
+        }
+      ]
+    },
+    {
+      "property": "Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Bronze_longsword.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "Is_boostable",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Smithing#0##"
+        }
+      ]
+    },
+    {
+      "property": "Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "f"
+        }
+      ]
+    },
+    {
+      "property": "Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1291"
+        }
+      ]
+    },
+    {
+      "property": "Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Bronze longsword"
+        }
+      ]
+    },
+    {
+      "property": "Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Production_JSON",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "{\"ticks\":\"5\",\"materials\":[{\"name\":\"Bronze bar\",\"quantity\":\"2\"}],\"facilities\":\"Anvil\",\"tools\":\"Hammer\",\"skills\":[{\"experience\":\"25\",\"level\":\"6\",\"name\":\"Smithing\",\"boostable\":\"Yes\"}],\"members\":\"No\",\"output\":{\"cost\":53,\"quantity\":\"1\",\"name\":\"Bronze longsword\",\"image\":\"[[File:Bronze longsword.png|link=Bronze longsword]]\"}}"
+        }
+      ]
+    },
+    {
+      "property": "Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Release_date",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2001/1/4"
+        }
+      ]
+    },
+    {
+      "property": "Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "5"
+        }
+      ]
+    },
+    {
+      "property": "Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "3"
+        }
+      ]
+    },
+    {
+      "property": "Smithing_experience",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "25"
+        }
+      ]
+    },
+    {
+      "property": "Smithing_level",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "6"
+        }
+      ]
+    },
+    {
+      "property": "Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "4"
+        }
+      ]
+    },
+    {
+      "property": "Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Store_price_delta",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "2"
+        },
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "7"
+        }
+      ]
+    },
+    {
+      "property": "Uses_facility",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Anvil#0##"
+        }
+      ]
+    },
+    {
+      "property": "Uses_infobox",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Item"
+        }
+      ]
+    },
+    {
+      "property": "Uses_material",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Bronze_bar#0##"
+        }
+      ]
+    },
+    {
+      "property": "Uses_skill",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Smithing#0##"
+        }
+      ]
+    },
+    {
+      "property": "Uses_tool",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Hammer#0##"
+        }
+      ]
+    },
+    {
+      "property": "Value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "40"
+        }
+      ]
+    },
+    {
+      "property": "Weapon_attack_range",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "Weapon_attack_speed",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "5"
+        }
+      ]
+    },
+    {
+      "property": "Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1.814"
+        }
+      ]
+    },
+    {
+      "property": "_INST",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Free-to-play_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Weapon_slot_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Smithing#14##"
+        },
+        {
+          "type": 9,
+          "item": "Weapons#14##"
+        },
+        {
+          "type": 9,
+          "item": "Bronze#14##"
+        },
+        {
+          "type": 9,
+          "item": "Grand_Exchange_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Tradeable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_dropped_by_monster#14##"
+        },
+        {
+          "type": 9,
+          "item": "Recipes_that_require_a_tool#14##"
+        },
+        {
+          "type": 9,
+          "item": "Recipes_that_use_a_facility#14##"
+        },
+        {
+          "type": 9,
+          "item": "Slash_weapons#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Melee_weapons#14##"
+        }
+      ]
+    },
+    {
+      "property": "_MDAT",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2023/10/12/7/39/29/0"
+        }
+      ]
+    },
+    {
+      "property": "_SKEY",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Bronze longsword"
+        }
+      ]
+    }
+  ],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

@@ -1,0 +1,801 @@
+{
+  "subject": "Torva_platebody#0##",
+  "data": [
+    {
+      "property": "All_Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "117"
+        }
+      ]
+    },
+    {
+      "property": "All_Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "body"
+        }
+      ]
+    },
+    {
+      "property": "All_Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Torva_platebody_(damaged).png#6##"
+        },
+        {
+          "type": 9,
+          "item": "Torva_platebody.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "All_Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "26378"
+        },
+        {
+          "type": 1,
+          "item": "26384"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Torva platebody (damaged)"
+        },
+        {
+          "type": 2,
+          "item": "Torva platebody"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-18"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-11"
+        }
+      ]
+    },
+    {
+      "property": "All_Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-14"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "142"
+        }
+      ]
+    },
+    {
+      "property": "All_Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "111"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "117"
+        }
+      ]
+    },
+    {
+      "property": "All_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "6"
+        }
+      ]
+    },
+    {
+      "property": "All_Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "9.979"
+        }
+      ]
+    },
+    {
+      "property": "Default_version",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Restored"
+        }
+      ]
+    },
+    {
+      "property": "Is_boostable",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Smithing#0##"
+        }
+      ]
+    },
+    {
+      "property": "Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "Production_JSON",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "{\"ticks\":\"13\",\"materials\":[{\"name\":\"Torva platebody (damaged)\",\"quantity\":\"1\"},{\"name\":\"Bandosian components\",\"quantity\":\"2\"}],\"facilities\":\"Anvil\",\"tools\":\"Hammer\",\"skills\":[{\"experience\":\"2250\",\"level\":\"90\",\"name\":\"Smithing\",\"boostable\":\"Yes\"}],\"members\":\"Yes\",\"output\":{\"cost\":373095632,\"quantity\":\"1\",\"name\":\"Torva platebody\",\"image\":\"[[File:Torva platebody.png|link=Torva platebody]]\"}}"
+        }
+      ]
+    },
+    {
+      "property": "Smithing_experience",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "2250"
+        }
+      ]
+    },
+    {
+      "property": "Smithing_level",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "90"
+        }
+      ]
+    },
+    {
+      "property": "Uses_facility",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Anvil#0##"
+        }
+      ]
+    },
+    {
+      "property": "Uses_material",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Torva_platebody#0##"
+        },
+        {
+          "type": 9,
+          "item": "Bandosian_components#0##"
+        }
+      ]
+    },
+    {
+      "property": "Uses_skill",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Smithing#0##"
+        }
+      ]
+    },
+    {
+      "property": "Uses_tool",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Hammer#0##"
+        }
+      ]
+    },
+    {
+      "property": "Version_count",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "2"
+        }
+      ]
+    },
+    {
+      "property": "_INST",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Smithing#14##"
+        },
+        {
+          "type": 9,
+          "item": "Melee_armour#14##"
+        },
+        {
+          "type": 9,
+          "item": "Body_slot_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "God_Wars_Dungeon#14##"
+        },
+        {
+          "type": 9,
+          "item": "Grand_Exchange_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Tradeable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Pages_that_contain_switch_infobox_data#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_dropped_by_monster#14##"
+        },
+        {
+          "type": 9,
+          "item": "Recipes_that_require_a_tool#14##"
+        },
+        {
+          "type": 9,
+          "item": "Recipes_that_use_a_facility#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Members'_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_subject_to_Grand_Exchange_item_sink#14##"
+        },
+        {
+          "type": 9,
+          "item": "Collection_log_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Strength_armour#14##"
+        }
+      ]
+    },
+    {
+      "property": "_MDAT",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2024/5/27/20/51/55/0"
+        }
+      ]
+    },
+    {
+      "property": "_SKEY",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Torva platebody"
+        }
+      ]
+    },
+    {
+      "property": "_SOBJ",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Torva_platebody#0##Damaged"
+        },
+        {
+          "type": 9,
+          "item": "Torva_platebody#0##Restored"
+        }
+      ]
+    }
+  ],
+  "sobj": [
+    {
+      "subject": "Torva_platebody#0##Damaged",
+      "data": [
+        {
+          "property": "Buy_limit",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "8"
+            }
+          ]
+        },
+        {
+          "property": "Examine",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "An ancient warrior's platebody."
+            }
+          ]
+        },
+        {
+          "property": "High_Alchemy_value",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "360000"
+            }
+          ]
+        },
+        {
+          "property": "Image",
+          "dataitem": [
+            {
+              "type": 9,
+              "item": "Torva_platebody_(damaged).png#6##"
+            }
+          ]
+        },
+        {
+          "property": "Is_members_only",
+          "dataitem": [
+            {
+              "type": 4,
+              "item": "t"
+            }
+          ]
+        },
+        {
+          "property": "Is_variant_of",
+          "dataitem": [
+            {
+              "type": 9,
+              "item": "Torva_platebody#0##"
+            }
+          ]
+        },
+        {
+          "property": "Item_ID",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "26378"
+            }
+          ]
+        },
+        {
+          "property": "Item_Name",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "Torva platebody (damaged)"
+            }
+          ]
+        },
+        {
+          "property": "Release_date",
+          "dataitem": [
+            {
+              "type": 6,
+              "item": "1/2022/1/5"
+            }
+          ]
+        },
+        {
+          "property": "Uses_infobox",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "Item"
+            }
+          ]
+        },
+        {
+          "property": "Value",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "600000"
+            }
+          ]
+        },
+        {
+          "property": "Version_anchor",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "Damaged"
+            }
+          ]
+        },
+        {
+          "property": "Weight",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "9.979"
+            }
+          ]
+        },
+        {
+          "property": "_SKEY",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "Torva platebody#Damaged"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Torva_platebody#0##Restored",
+      "data": [
+        {
+          "property": "Buy_limit",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "8"
+            }
+          ]
+        },
+        {
+          "property": "Crush_attack_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "0"
+            }
+          ]
+        },
+        {
+          "property": "Crush_defence_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "117"
+            }
+          ]
+        },
+        {
+          "property": "Equipment_slot",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "body"
+            }
+          ]
+        },
+        {
+          "property": "Examine",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "An ancient warrior's platebody."
+            }
+          ]
+        },
+        {
+          "property": "High_Alchemy_value",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "360000"
+            }
+          ]
+        },
+        {
+          "property": "Image",
+          "dataitem": [
+            {
+              "type": 9,
+              "item": "Torva_platebody.png#6##"
+            }
+          ]
+        },
+        {
+          "property": "Is_members_only",
+          "dataitem": [
+            {
+              "type": 4,
+              "item": "t"
+            }
+          ]
+        },
+        {
+          "property": "Is_variant_of",
+          "dataitem": [
+            {
+              "type": 9,
+              "item": "Torva_platebody#0##"
+            }
+          ]
+        },
+        {
+          "property": "Item_ID",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "26384"
+            }
+          ]
+        },
+        {
+          "property": "Item_Name",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "Torva platebody"
+            }
+          ]
+        },
+        {
+          "property": "Magic_Damage_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "0"
+            }
+          ]
+        },
+        {
+          "property": "Magic_attack_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "-18"
+            }
+          ]
+        },
+        {
+          "property": "Magic_defence_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "-11"
+            }
+          ]
+        },
+        {
+          "property": "Prayer_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "1"
+            }
+          ]
+        },
+        {
+          "property": "Range_attack_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "-14"
+            }
+          ]
+        },
+        {
+          "property": "Range_defence_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "142"
+            }
+          ]
+        },
+        {
+          "property": "Ranged_Strength_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "0"
+            }
+          ]
+        },
+        {
+          "property": "Release_date",
+          "dataitem": [
+            {
+              "type": 6,
+              "item": "1/2022/1/5"
+            }
+          ]
+        },
+        {
+          "property": "Slash_attack_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "0"
+            }
+          ]
+        },
+        {
+          "property": "Slash_defence_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "111"
+            }
+          ]
+        },
+        {
+          "property": "Stab_attack_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "0"
+            }
+          ]
+        },
+        {
+          "property": "Stab_defence_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "117"
+            }
+          ]
+        },
+        {
+          "property": "Strength_bonus",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "6"
+            }
+          ]
+        },
+        {
+          "property": "Uses_infobox",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "Item"
+            }
+          ]
+        },
+        {
+          "property": "Value",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "600000"
+            }
+          ]
+        },
+        {
+          "property": "Version_anchor",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "Restored"
+            }
+          ]
+        },
+        {
+          "property": "Weight",
+          "dataitem": [
+            {
+              "type": 1,
+              "item": "9.979"
+            }
+          ]
+        },
+        {
+          "property": "_SKEY",
+          "dataitem": [
+            {
+              "type": 2,
+              "item": "Torva platebody#Restored"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

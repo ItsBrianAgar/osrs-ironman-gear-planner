@@ -1,0 +1,492 @@
+{
+  "subject": "Ancestral_robe_bottom#0##",
+  "data": [
+    {
+      "property": "All_Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "30"
+        }
+      ]
+    },
+    {
+      "property": "All_Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "legs"
+        }
+      ]
+    },
+    {
+      "property": "All_Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Ancestral_robe_bottom.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "All_Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "21024"
+        }
+      ]
+    },
+    {
+      "property": "All_Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Ancestral robe bottom"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "3"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "26"
+        }
+      ]
+    },
+    {
+      "property": "All_Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "20"
+        }
+      ]
+    },
+    {
+      "property": "All_Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-7"
+        }
+      ]
+    },
+    {
+      "property": "All_Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "24"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "27"
+        }
+      ]
+    },
+    {
+      "property": "All_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "All_Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1.814"
+        }
+      ]
+    },
+    {
+      "property": "Buy_limit",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "8"
+        }
+      ]
+    },
+    {
+      "property": "Crush_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Crush_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "30"
+        }
+      ]
+    },
+    {
+      "property": "Equipment_slot",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "legs"
+        }
+      ]
+    },
+    {
+      "property": "Examine",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "The robe bottoms of a powerful sorceress from a bygone era."
+        }
+      ]
+    },
+    {
+      "property": "High_Alchemy_value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "48000"
+        }
+      ]
+    },
+    {
+      "property": "Image",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Ancestral_robe_bottom.png#6##"
+        }
+      ]
+    },
+    {
+      "property": "Is_members_only",
+      "dataitem": [
+        {
+          "type": 4,
+          "item": "t"
+        }
+      ]
+    },
+    {
+      "property": "Item_ID",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "21024"
+        }
+      ]
+    },
+    {
+      "property": "Item_Name",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Ancestral robe bottom"
+        }
+      ]
+    },
+    {
+      "property": "Magic_Damage_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "3"
+        }
+      ]
+    },
+    {
+      "property": "Magic_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "26"
+        }
+      ]
+    },
+    {
+      "property": "Magic_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "20"
+        }
+      ]
+    },
+    {
+      "property": "Prayer_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Range_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "-7"
+        }
+      ]
+    },
+    {
+      "property": "Range_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Ranged_Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Release_date",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2017/1/5"
+        }
+      ]
+    },
+    {
+      "property": "Slash_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Slash_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "24"
+        }
+      ]
+    },
+    {
+      "property": "Stab_attack_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Stab_defence_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "27"
+        }
+      ]
+    },
+    {
+      "property": "Strength_bonus",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "0"
+        }
+      ]
+    },
+    {
+      "property": "Uses_infobox",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Item"
+        }
+      ]
+    },
+    {
+      "property": "Value",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "80000"
+        }
+      ]
+    },
+    {
+      "property": "Weight",
+      "dataitem": [
+        {
+          "type": 1,
+          "item": "1.814"
+        }
+      ]
+    },
+    {
+      "property": "_INST",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Magic_armour#14##"
+        },
+        {
+          "type": 9,
+          "item": "Chambers_of_Xeric#14##"
+        },
+        {
+          "type": 9,
+          "item": "Grand_Exchange_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Tradeable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_dropped_by_monster#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipable_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Members'_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Legs_slot_items#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_storable_in_the_costume_room#14##"
+        },
+        {
+          "type": 9,
+          "item": "Items_subject_to_Grand_Exchange_item_sink#14##"
+        },
+        {
+          "type": 9,
+          "item": "Collection_log_items#14##"
+        }
+      ]
+    },
+    {
+      "property": "_MDAT",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2024/10/7/11/51/6/0"
+        }
+      ]
+    },
+    {
+      "property": "_SKEY",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Ancestral robe bottom"
+        }
+      ]
+    }
+  ],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

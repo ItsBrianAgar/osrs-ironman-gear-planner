@@ -1,0 +1,46 @@
+{
+  "subject": "Ancestral_robe#0##",
+  "data": [
+    {
+      "property": "_INST",
+      "dataitem": [
+        {
+          "type": 9,
+          "item": "Magic_armour#14##"
+        },
+        {
+          "type": 9,
+          "item": "Chambers_of_Xeric#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipment#14##"
+        },
+        {
+          "type": 9,
+          "item": "Equipment_sets#14##"
+        }
+      ]
+    },
+    {
+      "property": "_MDAT",
+      "dataitem": [
+        {
+          "type": 6,
+          "item": "1/2024/10/6/18/39/14/0"
+        }
+      ]
+    },
+    {
+      "property": "_SKEY",
+      "dataitem": [
+        {
+          "type": 2,
+          "item": "Ancestral robe"
+        }
+      ]
+    }
+  ],
+  "serializer": "SMW\\Serializers\\SemanticDataSerializer",
+  "version": 2
+}

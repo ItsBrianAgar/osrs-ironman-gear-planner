@@ -1,4 +1,5 @@
 .App {
+  box-sizing: border-box;
   text-align: center;
   width: 100%;
   min-height: 100vh;
@@ -8,11 +9,15 @@
 }
 
 .content-wrapper {
-  background-color: white;
+  /* layout */
+  box-sizing: border-box;
   margin: 0 auto;
+  /* styles */
   width: 100%;
+  padding: 2rem;
   max-width: 1440px;
-  min-height: calc(100vh - 4rem);
+  min-height: calc(100vh - 6rem);
+  background-color: white;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.02), 0 2rem 4rem rgba(0, 0, 0, 0.02);
   border-radius: 1rem;
 }
